@@ -1,5 +1,7 @@
 '''
 mainlayout.addwidget(控件对象，行索引（就是位置），列索引（位置），占用行数（大小），占用列数（大小）)
+
+伙伴关系：点击一个，另一个跟着反应（本例子中，热键ALt+N 或者ALt+p 能切换焦点）
 '''
 
 from PyQt5.QtWidgets import *
